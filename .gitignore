@@ -1,0 +1,6 @@
+# Ignore any __pycache__ directories
+__pycache__/
+
+# Ignore specific files
+cfg.config
+config.py
